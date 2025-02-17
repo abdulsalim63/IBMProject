@@ -1,0 +1,25 @@
+{
+  "name": "book-review",
+  "version": "1.0.0",
+  "description": "This is a final project for IBM course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulsalim63/IBMProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulsalim63/IBMProject/issues"
+  },
+  "homepage": "https://github.com/abdulsalim63/IBMProject#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
