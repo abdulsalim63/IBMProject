@@ -13,6 +13,7 @@
   },
   "author": "",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/abdulsalim63/IBMProject/issues"
   },
@@ -20,6 +21,8 @@
   "dependencies": {
     "axios": "^1.7.9",
     "express": "^4.21.2",
-    "nodemon": "^3.1.9"
+    "express-session": "^1.17.3",
+    "nodemon": "^3.1.9",
+    "jsonwebtoken": "^8.5.1"
   }
 }
